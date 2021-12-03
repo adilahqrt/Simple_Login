@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">SimpleLogin</string>
+    <string name="lightlance">Lightlance</string>
+    <string name="emailLog">Email</string>
+    <string name="passLog">Password</string>
+    <string name="login">LOGIN</string>
+    <string name="forgot_pass">Forgot Password?</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="title_activity_register">RegisterActivity</string>
+    <string name="register">Register Here!</string>
+    <string name="name">Full Name</string>
+    <string name="gender">Gender</string>
+    <string name="address">Address</string>
+    <string name="telp">No Telp</string>
+    <string name="isWaiting">Mohon Tunggu</string>
+    <string name="warning">Peringatan</string>
+    <string name="notNull">Tidak boleh kosong1</string>
+    <string name="have_account">Already Have Account</string>
+</resources>
